@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE grammar PUBLIC "-//diveintopython.org//DTD Kant Generator Pro v1.0//EN" "kgp.dtd">
+
+<Shot name="shot001">
+    <Object name="Buzz Lightyear"><attrs objName="buzz.obj" objVer="21" objHighest="40" shotVer="4" mb="buzz_v1.mb"/></Object><Object name="Woody5"><attrs objName="woody.obj" objVer="4" objHighest="15" shotVer="2" mb="woody_v6.mb"/></Object><Object name="Jesse1"><attrs objName="jesse.obj" objVer="6" objHighest="15" shotVer="3" mb="jesseWalking_v6.mb"/></Object>
+</Shot>
+
